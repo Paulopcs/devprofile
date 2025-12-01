@@ -28,9 +28,20 @@ body {
   color: white;
 }
 
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 40px;
+  background: #222;
+  color: white;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
 .logo {
+  font-size: 1.6rem;
   font-weight: 700;
-  font-size: 1.4rem;
 }
 
 .toggle-btn {
