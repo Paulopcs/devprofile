@@ -58,7 +58,7 @@ index.js
 O projeto está hospedado na **Vercel**, permitindo carregamento rápido e atualizações automáticas a cada push no GitHub.
 
 🔗 **Acesse o currículo online:**  
-https://devprofile-k8wqdqfvq-paulo-eduardos-projects-c7e0948a.vercel.app/
+[https://devprofile-k8wqdqfvq-paulo-eduardos-projects-c7e0948a.vercel.app/](https://devprofile-psi.vercel.app/)
 
 ---
 
